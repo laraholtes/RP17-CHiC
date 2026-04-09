@@ -125,575 +125,575 @@ longLabel RO CRISPR edited sample
 
 ############################################################
 # ---INSERT-TRACKS-HERE---  (DON’T REMOVE THIS LINE)
-track PPC_Cont67_3kb.interact
+track PPC_Cont67_3kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont67_3kb.interact
-longLabel PPC Controls PPC_Cont67_3kb.interact
+shortLabel PPC_Cont67_3kb
+longLabel PPC Controls PPC_Cont67_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Controls/PPC_Cont67_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Controls/PPC_Cont67_3kb.interact.bed
 
-track PPC_Cont74_3kb.interact
+track PPC_Cont74_3kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont74_3kb.interact
-longLabel PPC Controls PPC_Cont74_3kb.interact
+shortLabel PPC_Cont74_3kb
+longLabel PPC Controls PPC_Cont74_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Controls/PPC_Cont74_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Controls/PPC_Cont74_3kb.interact.bed
 
-track PPC_Cont75_3kb.interact
+track PPC_Cont75_3kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont75_3kb.interact
-longLabel PPC Controls PPC_Cont75_3kb.interact
+shortLabel PPC_Cont75_3kb
+longLabel PPC Controls PPC_Cont75_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Controls/PPC_Cont75_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Controls/PPC_Cont75_3kb.interact.bed
 
-track PPC_Controls_3kb.interact
+track PPC_Controls_3kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Controls_3kb.interact
-longLabel PPC Controls PPC_Controls_3kb.interact
+shortLabel PPC_Controls_3kb
+longLabel PPC Controls PPC_Controls_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Controls/PPC_Controls_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Controls/PPC_Controls_3kb.interact.bed
 
-track PPC_NP-SV1_3kb.interact
+track PPC_NP-SV1_3kb
 parent PPC_NonPathogenic
 type interact
-shortLabel PPC_NP-SV1_3kb.interact
-longLabel PPC NonPathogenic PPC_NP-SV1_3kb.interact
+shortLabel PPC_NP-SV1_3kb
+longLabel PPC NonPathogenic PPC_NP-SV1_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/NonPathogenic/PPC_NP-SV1_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/NonPathogenic/PPC_NP-SV1_3kb.interact.bed
 
-track PPC_NL-SV1_3kb.interact
+track PPC_NL-SV1_3kb
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV1_3kb.interact
-longLabel PPC Patients PPC_NL-SV1_3kb.interact
+shortLabel PPC_NL-SV1_3kb
+longLabel PPC Patients PPC_NL-SV1_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Patients/PPC_NL-SV1_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Patients/PPC_NL-SV1_3kb.interact.bed
 
-track PPC_NL-SV5_3kb.interact
+track PPC_NL-SV5_3kb
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV5_3kb.interact
-longLabel PPC Patients PPC_NL-SV5_3kb.interact
+shortLabel PPC_NL-SV5_3kb
+longLabel PPC Patients PPC_NL-SV5_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Patients/PPC_NL-SV5_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Patients/PPC_NL-SV5_3kb.interact.bed
 
-track PPC_Patients_3kb.interact
+track PPC_Patients_3kb
 parent PPC_Patients
 type interact
-shortLabel PPC_Patients_3kb.interact
-longLabel PPC Patients PPC_Patients_3kb.interact
+shortLabel PPC_Patients_3kb
+longLabel PPC Patients PPC_Patients_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Patients/PPC_Patients_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Patients/PPC_Patients_3kb.interact.bed
 
-track PPC_UK-SV2_3kb.interact
+track PPC_UK-SV2_3kb
 parent PPC_Patients
 type interact
-shortLabel PPC_UK-SV2_3kb.interact
-longLabel PPC Patients PPC_UK-SV2_3kb.interact
+shortLabel PPC_UK-SV2_3kb
+longLabel PPC Patients PPC_UK-SV2_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/PPC/Patients/PPC_UK-SV2_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/PPC/Patients/PPC_UK-SV2_3kb.interact.bed
 
-track RO_Controls_3kb.interact
+track RO_Controls_3kb
 parent RO_Controls
 type interact
-shortLabel RO_Controls_3kb.interact
-longLabel RO Controls RO_Controls_3kb.interact
+shortLabel RO_Controls_3kb
+longLabel RO Controls RO_Controls_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Controls/RO_Controls_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Controls/RO_Controls_3kb.interact.bed
 
-track RO_Fcont_3kb.interact
+track RO_Fcont_3kb
 parent RO_Controls
 type interact
-shortLabel RO_Fcont_3kb.interact
-longLabel RO Controls RO_Fcont_3kb.interact
+shortLabel RO_Fcont_3kb
+longLabel RO Controls RO_Fcont_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Controls/RO_Fcont_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Controls/RO_Fcont_3kb.interact.bed
 
-track RO_HDFcont_3kb.interact
+track RO_HDFcont_3kb
 parent RO_Controls
 type interact
-shortLabel RO_HDFcont_3kb.interact
-longLabel RO Controls RO_HDFcont_3kb.interact
+shortLabel RO_HDFcont_3kb
+longLabel RO Controls RO_HDFcont_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Controls/RO_HDFcont_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Controls/RO_HDFcont_3kb.interact.bed
 
-track RO_Isocont_3kb.interact
+track RO_Isocont_3kb
 parent RO_CRISPR
 type interact
-shortLabel RO_Isocont_3kb.interact
-longLabel RO CRISPR RO_Isocont_3kb.interact
+shortLabel RO_Isocont_3kb
+longLabel RO CRISPR RO_Isocont_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/CRISPR/RO_Isocont_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/CRISPR/RO_Isocont_3kb.interact.bed
 
-track RO_NP-SV1_3kb.interact
+track RO_NP-SV1_3kb
 parent RO_NonPathogenic
 type interact
-shortLabel RO_NP-SV1_3kb.interact
-longLabel RO NonPathogenic RO_NP-SV1_3kb.interact
+shortLabel RO_NP-SV1_3kb
+longLabel RO NonPathogenic RO_NP-SV1_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/NonPathogenic/RO_NP-SV1_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/NonPathogenic/RO_NP-SV1_3kb.interact.bed
 
-track RO_NL-SV1_3kb.interact
+track RO_NL-SV1_3kb
 parent RO_Patients
 type interact
-shortLabel RO_NL-SV1_3kb.interact
-longLabel RO Patients RO_NL-SV1_3kb.interact
+shortLabel RO_NL-SV1_3kb
+longLabel RO Patients RO_NL-SV1_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Patients/RO_NL-SV1_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Patients/RO_NL-SV1_3kb.interact.bed
 
-track RO_NL-SV5_3kb.interact
+track RO_NL-SV5_3kb
 parent RO_Patients
 type interact
-shortLabel RO_NL-SV5_3kb.interact
-longLabel RO Patients RO_NL-SV5_3kb.interact
+shortLabel RO_NL-SV5_3kb
+longLabel RO Patients RO_NL-SV5_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Patients/RO_NL-SV5_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Patients/RO_NL-SV5_3kb.interact.bed
 
-track RO_Patients_3kb.interact
+track RO_Patients_3kb
 parent RO_Patients
 type interact
-shortLabel RO_Patients_3kb.interact
-longLabel RO Patients RO_Patients_3kb.interact
+shortLabel RO_Patients_3kb
+longLabel RO Patients RO_Patients_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Patients/RO_Patients_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Patients/RO_Patients_3kb.interact.bed
 
-track RO_UK-SV2_3kb.interact
+track RO_UK-SV2_3kb
 parent RO_Patients
 type interact
-shortLabel RO_UK-SV2_3kb.interact
-longLabel RO Patients RO_UK-SV2_3kb.interact
+shortLabel RO_UK-SV2_3kb
+longLabel RO Patients RO_UK-SV2_3kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../3kb/RO/Patients/RO_UK-SV2_3kb.interact.bed
+bigDataUrl /RP17-CHiC/3kb/RO/Patients/RO_UK-SV2_3kb.interact.bed
 
-track PPC_Cont67_5kb.interact
+track PPC_Cont67_5kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont67_5kb.interact
-longLabel PPC Controls PPC_Cont67_5kb.interact
+shortLabel PPC_Cont67_5kb
+longLabel PPC Controls PPC_Cont67_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Controls/PPC_Cont67_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Controls/PPC_Cont67_5kb.interact.bed
 
-track PPC_Cont74_5kb.interact
+track PPC_Cont74_5kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont74_5kb.interact
-longLabel PPC Controls PPC_Cont74_5kb.interact
+shortLabel PPC_Cont74_5kb
+longLabel PPC Controls PPC_Cont74_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Controls/PPC_Cont74_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Controls/PPC_Cont74_5kb.interact.bed
 
-track PPC_Cont75_5kb.interact
+track PPC_Cont75_5kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont75_5kb.interact
-longLabel PPC Controls PPC_Cont75_5kb.interact
+shortLabel PPC_Cont75_5kb
+longLabel PPC Controls PPC_Cont75_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Controls/PPC_Cont75_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Controls/PPC_Cont75_5kb.interact.bed
 
-track PPC_Controls_5kb.interact
+track PPC_Controls_5kb
 parent PPC_Controls
 type interact
-shortLabel PPC_Controls_5kb.interact
-longLabel PPC Controls PPC_Controls_5kb.interact
+shortLabel PPC_Controls_5kb
+longLabel PPC Controls PPC_Controls_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Controls/PPC_Controls_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Controls/PPC_Controls_5kb.interact.bed
 
-track PPC_NP-SV1_5kb.interact
+track PPC_NP-SV1_5kb
 parent PPC_NonPathogenic
 type interact
-shortLabel PPC_NP-SV1_5kb.interact
-longLabel PPC NonPathogenic PPC_NP-SV1_5kb.interact
+shortLabel PPC_NP-SV1_5kb
+longLabel PPC NonPathogenic PPC_NP-SV1_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/NonPathogenic/PPC_NP-SV1_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/NonPathogenic/PPC_NP-SV1_5kb.interact.bed
 
-track PPC_NL-SV1_5kb.interact
+track PPC_NL-SV1_5kb
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV1_5kb.interact
-longLabel PPC Patients PPC_NL-SV1_5kb.interact
+shortLabel PPC_NL-SV1_5kb
+longLabel PPC Patients PPC_NL-SV1_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Patients/PPC_NL-SV1_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Patients/PPC_NL-SV1_5kb.interact.bed
 
-track PPC_NL-SV5_5kb.interact
+track PPC_NL-SV5_5kb
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV5_5kb.interact
-longLabel PPC Patients PPC_NL-SV5_5kb.interact
+shortLabel PPC_NL-SV5_5kb
+longLabel PPC Patients PPC_NL-SV5_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Patients/PPC_NL-SV5_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Patients/PPC_NL-SV5_5kb.interact.bed
 
-track PPC_Patients_5kb.interact
+track PPC_Patients_5kb
 parent PPC_Patients
 type interact
-shortLabel PPC_Patients_5kb.interact
-longLabel PPC Patients PPC_Patients_5kb.interact
+shortLabel PPC_Patients_5kb
+longLabel PPC Patients PPC_Patients_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Patients/PPC_Patients_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Patients/PPC_Patients_5kb.interact.bed
 
-track PPC_UK-SV2_5kb.interact
+track PPC_UK-SV2_5kb
 parent PPC_Patients
 type interact
-shortLabel PPC_UK-SV2_5kb.interact
-longLabel PPC Patients PPC_UK-SV2_5kb.interact
+shortLabel PPC_UK-SV2_5kb
+longLabel PPC Patients PPC_UK-SV2_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/PPC/Patients/PPC_UK-SV2_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/PPC/Patients/PPC_UK-SV2_5kb.interact.bed
 
-track RO_Fcont_5kb.interact
+track RO_Fcont_5kb
 parent RO_Controls
 type interact
-shortLabel RO_Fcont_5kb.interact
-longLabel RO Controls RO_Fcont_5kb.interact
+shortLabel RO_Fcont_5kb
+longLabel RO Controls RO_Fcont_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/Controls/RO_Fcont_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/Controls/RO_Fcont_5kb.interact.bed
 
-track RO_HDFcont_5kb.interact
+track RO_HDFcont_5kb
 parent RO_Controls
 type interact
-shortLabel RO_HDFcont_5kb.interact
-longLabel RO Controls RO_HDFcont_5kb.interact
+shortLabel RO_HDFcont_5kb
+longLabel RO Controls RO_HDFcont_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/Controls/RO_HDFcont_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/Controls/RO_HDFcont_5kb.interact.bed
 
-track RO_Isocont_5kb.interact
+track RO_Isocont_5kb
 parent RO_CRISPR
 type interact
-shortLabel RO_Isocont_5kb.interact
-longLabel RO CRISPR RO_Isocont_5kb.interact
+shortLabel RO_Isocont_5kb
+longLabel RO CRISPR RO_Isocont_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/CRISPR/RO_Isocont_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/CRISPR/RO_Isocont_5kb.interact.bed
 
-track RO_NP-SV1_5kb.interact
+track RO_NP-SV1_5kb
 parent RO_NonPathogenic
 type interact
-shortLabel RO_NP-SV1_5kb.interact
-longLabel RO NonPathogenic RO_NP-SV1_5kb.interact
+shortLabel RO_NP-SV1_5kb
+longLabel RO NonPathogenic RO_NP-SV1_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/NonPathogenic/RO_NP-SV1_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/NonPathogenic/RO_NP-SV1_5kb.interact.bed
 
-track RO_NL-SV1_5kb.interact
+track RO_NL-SV1_5kb
 parent RO_Patients
 type interact
-shortLabel RO_NL-SV1_5kb.interact
-longLabel RO Patients RO_NL-SV1_5kb.interact
+shortLabel RO_NL-SV1_5kb
+longLabel RO Patients RO_NL-SV1_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/Patients/RO_NL-SV1_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/Patients/RO_NL-SV1_5kb.interact.bed
 
-track RO_NL-SV5_5kb.interact
+track RO_NL-SV5_5kb
 parent RO_Patients
 type interact
-shortLabel RO_NL-SV5_5kb.interact
-longLabel RO Patients RO_NL-SV5_5kb.interact
+shortLabel RO_NL-SV5_5kb
+longLabel RO Patients RO_NL-SV5_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/Patients/RO_NL-SV5_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/Patients/RO_NL-SV5_5kb.interact.bed
 
-track RO_UK-SV2_5kb.interact
+track RO_UK-SV2_5kb
 parent RO_Patients
 type interact
-shortLabel RO_UK-SV2_5kb.interact
-longLabel RO Patients RO_UK-SV2_5kb.interact
+shortLabel RO_UK-SV2_5kb
+longLabel RO Patients RO_UK-SV2_5kb
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../5kb/RO/Patients/RO_UK-SV2_5kb.interact.bed
+bigDataUrl /RP17-CHiC/5kb/RO/Patients/RO_UK-SV2_5kb.interact.bed
 
-track PPC_Cont67_Unbinned.interact
+track PPC_Cont67_Unbinned
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont67_Unbinned.interact
-longLabel PPC Controls PPC_Cont67_Unbinned.interact
+shortLabel PPC_Cont67_Unbinned
+longLabel PPC Controls PPC_Cont67_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont67_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont67_Unbinned.interact.bed
 
-track PPC_Cont67_Unbinned_LongRangeOnly.interact
+track PPC_Cont67_Unbinned_LongRangeOnly
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont67_Unbinned_LongRangeOnly.interact
-longLabel PPC Controls PPC_Cont67_Unbinned_LongRangeOnly.interact
+shortLabel PPC_Cont67_Unbinned_LongRangeOnly
+longLabel PPC Controls PPC_Cont67_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont67_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont67_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_Cont74_Unbinned.interact
+track PPC_Cont74_Unbinned
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont74_Unbinned.interact
-longLabel PPC Controls PPC_Cont74_Unbinned.interact
+shortLabel PPC_Cont74_Unbinned
+longLabel PPC Controls PPC_Cont74_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont74_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont74_Unbinned.interact.bed
 
-track PPC_Cont74_Unbinned_LongRangeOnly.interact
+track PPC_Cont74_Unbinned_LongRangeOnly
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont74_Unbinned_LongRangeOnly.interact
-longLabel PPC Controls PPC_Cont74_Unbinned_LongRangeOnly.interact
+shortLabel PPC_Cont74_Unbinned_LongRangeOnly
+longLabel PPC Controls PPC_Cont74_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont74_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont74_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_Cont75_Unbinned.interact
+track PPC_Cont75_Unbinned
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont75_Unbinned.interact
-longLabel PPC Controls PPC_Cont75_Unbinned.interact
+shortLabel PPC_Cont75_Unbinned
+longLabel PPC Controls PPC_Cont75_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont75_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont75_Unbinned.interact.bed
 
-track PPC_Cont75_Unbinned_LongRangeOnly.interact
+track PPC_Cont75_Unbinned_LongRangeOnly
 parent PPC_Controls
 type interact
-shortLabel PPC_Cont75_Unbinned_LongRangeOnly.interact
-longLabel PPC Controls PPC_Cont75_Unbinned_LongRangeOnly.interact
+shortLabel PPC_Cont75_Unbinned_LongRangeOnly
+longLabel PPC Controls PPC_Cont75_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Cont75_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Cont75_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_Controls_Unbinned.interact
+track PPC_Controls_Unbinned
 parent PPC_Controls
 type interact
-shortLabel PPC_Controls_Unbinned.interact
-longLabel PPC Controls PPC_Controls_Unbinned.interact
+shortLabel PPC_Controls_Unbinned
+longLabel PPC Controls PPC_Controls_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Controls/PPC_Controls_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Controls/PPC_Controls_Unbinned.interact.bed
 
-track PPC_NP-SV1_Unbinned.interact
+track PPC_NP-SV1_Unbinned
 parent PPC_NonPathogenic
 type interact
-shortLabel PPC_NP-SV1_Unbinned.interact
-longLabel PPC NonPathogenic PPC_NP-SV1_Unbinned.interact
+shortLabel PPC_NP-SV1_Unbinned
+longLabel PPC NonPathogenic PPC_NP-SV1_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned.interact.bed
 
-track PPC_NP-SV1_Unbinned_LongRangeOnly.interact
+track PPC_NP-SV1_Unbinned_LongRangeOnly
 parent PPC_NonPathogenic
 type interact
-shortLabel PPC_NP-SV1_Unbinned_LongRangeOnly.interact
-longLabel PPC NonPathogenic PPC_NP-SV1_Unbinned_LongRangeOnly.interact
+shortLabel PPC_NP-SV1_Unbinned_LongRangeOnly
+longLabel PPC NonPathogenic PPC_NP-SV1_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_NL-SV1_Unbinned.interact
+track PPC_NL-SV1_Unbinned
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV1_Unbinned.interact
-longLabel PPC Patients PPC_NL-SV1_Unbinned.interact
+shortLabel PPC_NL-SV1_Unbinned
+longLabel PPC Patients PPC_NL-SV1_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned.interact.bed
 
-track PPC_NL-SV1_Unbinned_LongRangeOnly.interact
+track PPC_NL-SV1_Unbinned_LongRangeOnly
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV1_Unbinned_LongRangeOnly.interact
-longLabel PPC Patients PPC_NL-SV1_Unbinned_LongRangeOnly.interact
+shortLabel PPC_NL-SV1_Unbinned_LongRangeOnly
+longLabel PPC Patients PPC_NL-SV1_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_NL-SV5_Unbinned.interact
+track PPC_NL-SV5_Unbinned
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV5_Unbinned.interact
-longLabel PPC Patients PPC_NL-SV5_Unbinned.interact
+shortLabel PPC_NL-SV5_Unbinned
+longLabel PPC Patients PPC_NL-SV5_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned.interact.bed
 
-track PPC_NL-SV5_Unbinned_LongRangeOnly.interact
+track PPC_NL-SV5_Unbinned_LongRangeOnly
 parent PPC_Patients
 type interact
-shortLabel PPC_NL-SV5_Unbinned_LongRangeOnly.interact
-longLabel PPC Patients PPC_NL-SV5_Unbinned_LongRangeOnly.interact
+shortLabel PPC_NL-SV5_Unbinned_LongRangeOnly
+longLabel PPC Patients PPC_NL-SV5_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned_LongRangeOnly.interact.bed
 
-track PPC_Patients_Unbinned.interact
+track PPC_Patients_Unbinned
 parent PPC_Patients
 type interact
-shortLabel PPC_Patients_Unbinned.interact
-longLabel PPC Patients PPC_Patients_Unbinned.interact
+shortLabel PPC_Patients_Unbinned
+longLabel PPC Patients PPC_Patients_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_Patients_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_Patients_Unbinned.interact.bed
 
-track PPC_UK-SV2_Unbinned.interact
+track PPC_UK-SV2_Unbinned
 parent PPC_Patients
 type interact
-shortLabel PPC_UK-SV2_Unbinned.interact
-longLabel PPC Patients PPC_UK-SV2_Unbinned.interact
+shortLabel PPC_UK-SV2_Unbinned
+longLabel PPC Patients PPC_UK-SV2_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned.interact.bed
 
-track PPC_UK-SV2_Unbinned_LongRangeOnly.interact
+track PPC_UK-SV2_Unbinned_LongRangeOnly
 parent PPC_Patients
 type interact
-shortLabel PPC_UK-SV2_Unbinned_LongRangeOnly.interact
-longLabel PPC Patients PPC_UK-SV2_Unbinned_LongRangeOnly.interact
+shortLabel PPC_UK-SV2_Unbinned_LongRangeOnly
+longLabel PPC Patients PPC_UK-SV2_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned_LongRangeOnly.interact.bed
 
-track RO_Isocont_Unbinned.interact
+track RO_Isocont_Unbinned
 parent RO_CRISPR
 type interact
-shortLabel RO_Isocont_Unbinned.interact
-longLabel RO CRISPR RO_Isocont_Unbinned.interact
+shortLabel RO_Isocont_Unbinned
+longLabel RO CRISPR RO_Isocont_Unbinned
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/RO/CRISPR/RO_Isocont_Unbinned.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/RO/CRISPR/RO_Isocont_Unbinned.interact.bed
 
-track RO_Isocont_Unbinned_LongRangeOnly.interact
+track RO_Isocont_Unbinned_LongRangeOnly
 parent RO_CRISPR
 type interact
-shortLabel RO_Isocont_Unbinned_LongRangeOnly.interact
-longLabel RO CRISPR RO_Isocont_Unbinned_LongRangeOnly.interact
+shortLabel RO_Isocont_Unbinned_LongRangeOnly
+longLabel RO CRISPR RO_Isocont_Unbinned_LongRangeOnly
 visibility full
 interactDisplayMode curve
 maxHeightPixels 100:100:50
 scoreFilter 250
-bigDataUrl ../Unbinned/RO/CRISPR/RO_Isocont_Unbinned_LongRangeOnly.interact.bed
+bigDataUrl /RP17-CHiC/Unbinned/RO/CRISPR/RO_Isocont_Unbinned_LongRangeOnly.interact.bed
 
