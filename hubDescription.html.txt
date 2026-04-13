@@ -1,4 +1,0 @@
-<html><body>
-<h2>RP17 CHi-C Track Hub</h2>
-<p>This hub contains PPC and RO CHi-C interactions at multiple resolutions.</p>
-</body></html>
