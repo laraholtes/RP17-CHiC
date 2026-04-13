@@ -1,6 +1,0 @@
-*.bed text/plain
-*.bedpe text/plain
-*.interact text/plain
-*.interact.bed text/plain
-*.tsv text/plain
-*.txt text/plain
