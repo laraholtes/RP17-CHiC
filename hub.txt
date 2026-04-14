@@ -1,6 +1,0 @@
-hub RP17_CHiC
-shortLabel RP17 CHiC
-longLabel Chromatin interactions for RP17 project (PPC & RO, multi-resolution)
-genomesFile genomes.txt
-email lara.holtes@radboudumc.nl
-descriptionUrl hubDescription.html

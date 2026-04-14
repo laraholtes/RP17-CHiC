@@ -1,6 +1,0 @@
-*.interact.bed text eol=lf
-*.interact text eol=lf
-*.bed text eol=lf
-*.bedpe text eol=lf
-*.tsv text eol=lf
-*.txt text eol=lf

@@ -1,5 +1,0 @@
-browser position chr17:59000000-60000000
-track type=interact name="RO_Patients_3kb" description="RO_Patients_3kb_overlap" useScore=off maxHeightPixels=100:100:50 interactDisplayMode=curve
-chr17	59326958	59330006	RO_Patients_3kb	1000	2	RO_Patients_3kb_overlap	255,0,0	chr17	59326958	59330006	.	.	chr17	59437134	59440187	.	.
-chr17	59437134	59440187	RO_Patients_3kb	1000	2	RO_Patients_3kb_overlap	255,0,0	chr17	59437134	59440187	.	.	chr17	59217659	59220719	.	.
-chr17	59618840	59621938	RO_Patients_3kb	1000	2	RO_Patients_3kb_overlap	255,0,0	chr17	59618840	59621938	.	.	chr17	59704605	59707690	.	.
