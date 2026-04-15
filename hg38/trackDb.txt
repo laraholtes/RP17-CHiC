@@ -20,9 +20,7 @@ longLabel PPC_Overlap_Patients_5kb
 priority 1
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_NL-SV1_5kb
@@ -76,9 +74,7 @@ longLabel RO_Overlap_Patients_5kb
 priority 5
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track RO_NL-SV1_5kb
@@ -139,9 +135,7 @@ longLabel PPC_Overlap_Controls_5kb
 priority 9
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_Cont67_5kb
@@ -195,9 +189,7 @@ longLabel RO_Overlap_Controls_5kb
 priority 13
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track RO_HDFcont_5kb
@@ -306,9 +298,7 @@ longLabel PPC_Overlap_Patients_3kb
 priority 19
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_NL-SV1_3kb
@@ -362,9 +352,7 @@ longLabel RO_Overlap_Patients_3kb
 priority 23
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track RO_NL-SV1_3kb
@@ -425,9 +413,7 @@ longLabel PPC_Overlap_Controls_3kb
 priority 27
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_Cont67_3kb
@@ -481,9 +467,7 @@ longLabel RO_Overlap_Controls_3kb
 priority 31
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track RO_HDFcont_3kb
@@ -592,9 +576,7 @@ longLabel PPC_Overlap_Patients_Unbinned
 priority 37
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_NL-SV1_Unbinned
@@ -697,9 +679,7 @@ longLabel PPC_Overlap_Controls_Unbinned
 priority 44
 visibility pack
 interactDisplayMode curve
-useScore 1
-spectrum on
-scoreFilter 250
+itemRgb on
 maxHeightPixels 100:60:30
 
 track PPC_Cont67_Unbinned
