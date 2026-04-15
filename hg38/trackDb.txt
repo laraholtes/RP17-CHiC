@@ -18,11 +18,13 @@ bigDataUrl 5kb/PPC/Patients/PPC_Overlap_Patients_5kb.bigInteract
 shortLabel PPC_Overlap_Patients_5kb
 longLabel PPC_Overlap_Patients_5kb
 priority 1
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV1_5kb
 parent res_5kb_Patients
@@ -31,13 +33,14 @@ bigDataUrl 5kb/PPC/Patients/PPC_NL-SV1_5kb.bigInteract
 shortLabel PPC_NL-SV1_5kb
 longLabel PPC_NL-SV1_5kb
 priority 2
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_UK-SV2_5kb
 parent res_5kb_Patients
@@ -46,13 +49,14 @@ bigDataUrl 5kb/PPC/Patients/PPC_UK-SV2_5kb.bigInteract
 shortLabel PPC_UK-SV2_5kb
 longLabel PPC_UK-SV2_5kb
 priority 3
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV5_5kb
 parent res_5kb_Patients
@@ -61,13 +65,14 @@ bigDataUrl 5kb/PPC/Patients/PPC_NL-SV5_5kb.bigInteract
 shortLabel PPC_NL-SV5_5kb
 longLabel PPC_NL-SV5_5kb
 priority 4
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Overlap_Patients_5kb
 parent res_5kb_Patients
@@ -76,11 +81,13 @@ bigDataUrl 5kb/RO/Patients/RO_Overlap_Patients_5kb.bigInteract
 shortLabel RO_Overlap_Patients_5kb
 longLabel RO_Overlap_Patients_5kb
 priority 5
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NL-SV1_5kb
 parent res_5kb_Patients
@@ -89,13 +96,14 @@ bigDataUrl 5kb/RO/Patients/RO_NL-SV1_5kb.bigInteract
 shortLabel RO_NL-SV1_5kb
 longLabel RO_NL-SV1_5kb
 priority 6
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_UK-SV2_5kb
 parent res_5kb_Patients
@@ -104,13 +112,14 @@ bigDataUrl 5kb/RO/Patients/RO_UK-SV2_5kb.bigInteract
 shortLabel RO_UK-SV2_5kb
 longLabel RO_UK-SV2_5kb
 priority 7
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NL-SV5_5kb
 parent res_5kb_Patients
@@ -119,13 +128,14 @@ bigDataUrl 5kb/RO/Patients/RO_NL-SV5_5kb.bigInteract
 shortLabel RO_NL-SV5_5kb
 longLabel RO_NL-SV5_5kb
 priority 8
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_5kb_Controls
 parent res_5kb
@@ -141,11 +151,13 @@ bigDataUrl 5kb/PPC/Controls/PPC_Overlap_Controls_5kb.bigInteract
 shortLabel PPC_Overlap_Controls_5kb
 longLabel PPC_Overlap_Controls_5kb
 priority 9
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont67_5kb
 parent res_5kb_Controls
@@ -154,13 +166,14 @@ bigDataUrl 5kb/PPC/Controls/PPC_Cont67_5kb.bigInteract
 shortLabel PPC_Cont67_5kb
 longLabel PPC_Cont67_5kb
 priority 10
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont74_5kb
 parent res_5kb_Controls
@@ -169,13 +182,14 @@ bigDataUrl 5kb/PPC/Controls/PPC_Cont74_5kb.bigInteract
 shortLabel PPC_Cont74_5kb
 longLabel PPC_Cont74_5kb
 priority 11
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont75_5kb
 parent res_5kb_Controls
@@ -184,13 +198,14 @@ bigDataUrl 5kb/PPC/Controls/PPC_Cont75_5kb.bigInteract
 shortLabel PPC_Cont75_5kb
 longLabel PPC_Cont75_5kb
 priority 12
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Overlap_Controls_5kb
 parent res_5kb_Controls
@@ -199,11 +214,13 @@ bigDataUrl 5kb/RO/Controls/RO_Overlap_Controls_5kb.bigInteract
 shortLabel RO_Overlap_Controls_5kb
 longLabel RO_Overlap_Controls_5kb
 priority 13
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_HDFcont_5kb
 parent res_5kb_Controls
@@ -212,13 +229,14 @@ bigDataUrl 5kb/RO/Controls/RO_HDFcont_5kb.bigInteract
 shortLabel RO_HDFcont_5kb
 longLabel RO_HDFcont_5kb
 priority 14
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Fcont_5kb
 parent res_5kb_Controls
@@ -227,13 +245,14 @@ bigDataUrl 5kb/RO/Controls/RO_Fcont_5kb.bigInteract
 shortLabel RO_Fcont_5kb
 longLabel RO_Fcont_5kb
 priority 15
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_5kb_NonPathogenic
 parent res_5kb
@@ -249,13 +268,14 @@ bigDataUrl 5kb/PPC/NonPathogenic/PPC_NP-SV1_5kb.bigInteract
 shortLabel PPC_NP-SV1_5kb
 longLabel PPC_NP-SV1_5kb
 priority 16
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NP-SV1_5kb
 parent res_5kb_NonPathogenic
@@ -264,13 +284,14 @@ bigDataUrl 5kb/RO/NonPathogenic/RO_NP-SV1_5kb.bigInteract
 shortLabel RO_NP-SV1_5kb
 longLabel RO_NP-SV1_5kb
 priority 17
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_5kb_CRISPR
 parent res_5kb
@@ -286,13 +307,14 @@ bigDataUrl 5kb/RO/CRISPR/RO_Isocont_5kb.bigInteract
 shortLabel RO_Isocont_5kb
 longLabel RO_Isocont_5kb
 priority 18
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_3kb
 superTrack on show
@@ -314,11 +336,13 @@ bigDataUrl 3kb/PPC/Patients/PPC_Overlap_Patients_3kb.bigInteract
 shortLabel PPC_Overlap_Patients_3kb
 longLabel PPC_Overlap_Patients_3kb
 priority 19
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV1_3kb
 parent res_3kb_Patients
@@ -327,13 +351,14 @@ bigDataUrl 3kb/PPC/Patients/PPC_NL-SV1_3kb.bigInteract
 shortLabel PPC_NL-SV1_3kb
 longLabel PPC_NL-SV1_3kb
 priority 20
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_UK-SV2_3kb
 parent res_3kb_Patients
@@ -342,13 +367,14 @@ bigDataUrl 3kb/PPC/Patients/PPC_UK-SV2_3kb.bigInteract
 shortLabel PPC_UK-SV2_3kb
 longLabel PPC_UK-SV2_3kb
 priority 21
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV5_3kb
 parent res_3kb_Patients
@@ -357,13 +383,14 @@ bigDataUrl 3kb/PPC/Patients/PPC_NL-SV5_3kb.bigInteract
 shortLabel PPC_NL-SV5_3kb
 longLabel PPC_NL-SV5_3kb
 priority 22
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Overlap_Patients_3kb
 parent res_3kb_Patients
@@ -372,11 +399,13 @@ bigDataUrl 3kb/RO/Patients/RO_Overlap_Patients_3kb.bigInteract
 shortLabel RO_Overlap_Patients_3kb
 longLabel RO_Overlap_Patients_3kb
 priority 23
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NL-SV1_3kb
 parent res_3kb_Patients
@@ -385,13 +414,14 @@ bigDataUrl 3kb/RO/Patients/RO_NL-SV1_3kb.bigInteract
 shortLabel RO_NL-SV1_3kb
 longLabel RO_NL-SV1_3kb
 priority 24
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_UK-SV2_3kb
 parent res_3kb_Patients
@@ -400,13 +430,14 @@ bigDataUrl 3kb/RO/Patients/RO_UK-SV2_3kb.bigInteract
 shortLabel RO_UK-SV2_3kb
 longLabel RO_UK-SV2_3kb
 priority 25
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NL-SV5_3kb
 parent res_3kb_Patients
@@ -415,13 +446,14 @@ bigDataUrl 3kb/RO/Patients/RO_NL-SV5_3kb.bigInteract
 shortLabel RO_NL-SV5_3kb
 longLabel RO_NL-SV5_3kb
 priority 26
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_3kb_Controls
 parent res_3kb
@@ -437,11 +469,13 @@ bigDataUrl 3kb/PPC/Controls/PPC_Overlap_Controls_3kb.bigInteract
 shortLabel PPC_Overlap_Controls_3kb
 longLabel PPC_Overlap_Controls_3kb
 priority 27
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont67_3kb
 parent res_3kb_Controls
@@ -450,13 +484,14 @@ bigDataUrl 3kb/PPC/Controls/PPC_Cont67_3kb.bigInteract
 shortLabel PPC_Cont67_3kb
 longLabel PPC_Cont67_3kb
 priority 28
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont74_3kb
 parent res_3kb_Controls
@@ -465,13 +500,14 @@ bigDataUrl 3kb/PPC/Controls/PPC_Cont74_3kb.bigInteract
 shortLabel PPC_Cont74_3kb
 longLabel PPC_Cont74_3kb
 priority 29
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont75_3kb
 parent res_3kb_Controls
@@ -480,13 +516,14 @@ bigDataUrl 3kb/PPC/Controls/PPC_Cont75_3kb.bigInteract
 shortLabel PPC_Cont75_3kb
 longLabel PPC_Cont75_3kb
 priority 30
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Overlap_Controls_3kb
 parent res_3kb_Controls
@@ -495,11 +532,13 @@ bigDataUrl 3kb/RO/Controls/RO_Overlap_Controls_3kb.bigInteract
 shortLabel RO_Overlap_Controls_3kb
 longLabel RO_Overlap_Controls_3kb
 priority 31
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_HDFcont_3kb
 parent res_3kb_Controls
@@ -508,13 +547,14 @@ bigDataUrl 3kb/RO/Controls/RO_HDFcont_3kb.bigInteract
 shortLabel RO_HDFcont_3kb
 longLabel RO_HDFcont_3kb
 priority 32
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Fcont_3kb
 parent res_3kb_Controls
@@ -523,13 +563,14 @@ bigDataUrl 3kb/RO/Controls/RO_Fcont_3kb.bigInteract
 shortLabel RO_Fcont_3kb
 longLabel RO_Fcont_3kb
 priority 33
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_3kb_NonPathogenic
 parent res_3kb
@@ -545,13 +586,14 @@ bigDataUrl 3kb/PPC/NonPathogenic/PPC_NP-SV1_3kb.bigInteract
 shortLabel PPC_NP-SV1_3kb
 longLabel PPC_NP-SV1_3kb
 priority 34
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_NP-SV1_3kb
 parent res_3kb_NonPathogenic
@@ -560,13 +602,14 @@ bigDataUrl 3kb/RO/NonPathogenic/RO_NP-SV1_3kb.bigInteract
 shortLabel RO_NP-SV1_3kb
 longLabel RO_NP-SV1_3kb
 priority 35
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_3kb_CRISPR
 parent res_3kb
@@ -582,13 +625,14 @@ bigDataUrl 3kb/RO/CRISPR/RO_Isocont_3kb.bigInteract
 shortLabel RO_Isocont_3kb
 longLabel RO_Isocont_3kb
 priority 36
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_Unbinned
 superTrack on show
@@ -610,11 +654,13 @@ bigDataUrl Unbinned/PPC/Patients/PPC_Overlap_Patients_Unbinned.bigInteract
 shortLabel PPC_Overlap_Patients_Unbinned
 longLabel PPC_Overlap_Patients_Unbinned
 priority 37
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV1_Unbinned
 parent res_Unbinned_Patients
@@ -623,13 +669,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned.bigInteract
 shortLabel PPC_NL-SV1_Unbinned
 longLabel PPC_NL-SV1_Unbinned
 priority 38
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV1_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -638,13 +685,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_NL-SV1_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_NL-SV1_Unbinned_LongRangeOnly
 longLabel PPC_NL-SV1_Unbinned_LongRangeOnly
 priority 39
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_UK-SV2_Unbinned
 parent res_Unbinned_Patients
@@ -653,13 +701,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned.bigInteract
 shortLabel PPC_UK-SV2_Unbinned
 longLabel PPC_UK-SV2_Unbinned
 priority 40
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_UK-SV2_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -668,13 +717,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_UK-SV2_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_UK-SV2_Unbinned_LongRangeOnly
 longLabel PPC_UK-SV2_Unbinned_LongRangeOnly
 priority 41
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV5_Unbinned
 parent res_Unbinned_Patients
@@ -683,13 +733,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned.bigInteract
 shortLabel PPC_NL-SV5_Unbinned
 longLabel PPC_NL-SV5_Unbinned
 priority 42
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NL-SV5_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -698,13 +749,14 @@ bigDataUrl Unbinned/PPC/Patients/PPC_NL-SV5_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_NL-SV5_Unbinned_LongRangeOnly
 longLabel PPC_NL-SV5_Unbinned_LongRangeOnly
 priority 43
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_Unbinned_Controls
 parent res_Unbinned
@@ -720,11 +772,13 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Overlap_Controls_Unbinned.bigInteract
 shortLabel PPC_Overlap_Controls_Unbinned
 longLabel PPC_Overlap_Controls_Unbinned
 priority 44
-visibility pack
+visibility full
 interactDisplayMode curve
 itemRgb on
+scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont67_Unbinned
 parent res_Unbinned_Controls
@@ -733,13 +787,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont67_Unbinned.bigInteract
 shortLabel PPC_Cont67_Unbinned
 longLabel PPC_Cont67_Unbinned
 priority 45
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont67_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -748,13 +803,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont67_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_Cont67_Unbinned_LongRangeOnly
 longLabel PPC_Cont67_Unbinned_LongRangeOnly
 priority 46
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont74_Unbinned
 parent res_Unbinned_Controls
@@ -763,13 +819,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont74_Unbinned.bigInteract
 shortLabel PPC_Cont74_Unbinned
 longLabel PPC_Cont74_Unbinned
 priority 47
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont74_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -778,13 +835,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont74_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_Cont74_Unbinned_LongRangeOnly
 longLabel PPC_Cont74_Unbinned_LongRangeOnly
 priority 48
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont75_Unbinned
 parent res_Unbinned_Controls
@@ -793,13 +851,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont75_Unbinned.bigInteract
 shortLabel PPC_Cont75_Unbinned
 longLabel PPC_Cont75_Unbinned
 priority 49
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_Cont75_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -808,13 +867,14 @@ bigDataUrl Unbinned/PPC/Controls/PPC_Cont75_Unbinned_LongRangeOnly.bigInteract
 shortLabel PPC_Cont75_Unbinned_LongRangeOnly
 longLabel PPC_Cont75_Unbinned_LongRangeOnly
 priority 50
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_Unbinned_NonPathogenic
 parent res_Unbinned
@@ -830,13 +890,14 @@ bigDataUrl Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned.bigInteract
 shortLabel PPC_NP-SV1_Unbinned
 longLabel PPC_NP-SV1_Unbinned
 priority 51
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track PPC_NP-SV1_Unbinned_LongRangeOnly
 parent res_Unbinned_NonPathogenic
@@ -845,13 +906,14 @@ bigDataUrl Unbinned/PPC/NonPathogenic/PPC_NP-SV1_Unbinned_LongRangeOnly.bigInter
 shortLabel PPC_NP-SV1_Unbinned_LongRangeOnly
 longLabel PPC_NP-SV1_Unbinned_LongRangeOnly
 priority 52
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track res_Unbinned_CRISPR
 parent res_Unbinned
@@ -867,13 +929,14 @@ bigDataUrl Unbinned/RO/CRISPR/RO_Isocont_Unbinned.bigInteract
 shortLabel RO_Isocont_Unbinned
 longLabel RO_Isocont_Unbinned
 priority 53
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
 track RO_Isocont_Unbinned_LongRangeOnly
 parent res_Unbinned_CRISPR
@@ -882,11 +945,12 @@ bigDataUrl Unbinned/RO/CRISPR/RO_Isocont_Unbinned_LongRangeOnly.bigInteract
 shortLabel RO_Isocont_Unbinned_LongRangeOnly
 longLabel RO_Isocont_Unbinned_LongRangeOnly
 priority 54
-visibility pack
+visibility full
 interactDisplayMode curve
 useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
 endsVisible two
+interactMultiRegion true|500
 
