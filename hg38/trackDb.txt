@@ -22,6 +22,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV1_5kb
 parent res_5kb_Patients
@@ -36,6 +37,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_UK-SV2_5kb
 parent res_5kb_Patients
@@ -50,6 +52,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV5_5kb
 parent res_5kb_Patients
@@ -64,6 +67,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Overlap_Patients_5kb
 parent res_5kb_Patients
@@ -76,6 +80,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NL-SV1_5kb
 parent res_5kb_Patients
@@ -90,6 +95,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_UK-SV2_5kb
 parent res_5kb_Patients
@@ -104,6 +110,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NL-SV5_5kb
 parent res_5kb_Patients
@@ -118,6 +125,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_5kb_Controls
 parent res_5kb
@@ -137,6 +145,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont67_5kb
 parent res_5kb_Controls
@@ -151,6 +160,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont74_5kb
 parent res_5kb_Controls
@@ -165,6 +175,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont75_5kb
 parent res_5kb_Controls
@@ -179,6 +190,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Overlap_Controls_5kb
 parent res_5kb_Controls
@@ -191,6 +203,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_HDFcont_5kb
 parent res_5kb_Controls
@@ -205,6 +218,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Fcont_5kb
 parent res_5kb_Controls
@@ -219,6 +233,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_5kb_NonPathogenic
 parent res_5kb
@@ -240,6 +255,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NP-SV1_5kb
 parent res_5kb_NonPathogenic
@@ -254,6 +270,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_5kb_CRISPR
 parent res_5kb
@@ -275,6 +292,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_3kb
 superTrack on show
@@ -300,6 +318,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV1_3kb
 parent res_3kb_Patients
@@ -314,6 +333,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_UK-SV2_3kb
 parent res_3kb_Patients
@@ -328,6 +348,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV5_3kb
 parent res_3kb_Patients
@@ -342,6 +363,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Overlap_Patients_3kb
 parent res_3kb_Patients
@@ -354,6 +376,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NL-SV1_3kb
 parent res_3kb_Patients
@@ -368,6 +391,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_UK-SV2_3kb
 parent res_3kb_Patients
@@ -382,6 +406,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NL-SV5_3kb
 parent res_3kb_Patients
@@ -396,6 +421,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_3kb_Controls
 parent res_3kb
@@ -415,6 +441,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont67_3kb
 parent res_3kb_Controls
@@ -429,6 +456,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont74_3kb
 parent res_3kb_Controls
@@ -443,6 +471,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont75_3kb
 parent res_3kb_Controls
@@ -457,6 +486,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Overlap_Controls_3kb
 parent res_3kb_Controls
@@ -469,6 +499,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_HDFcont_3kb
 parent res_3kb_Controls
@@ -483,6 +514,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Fcont_3kb
 parent res_3kb_Controls
@@ -497,6 +529,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_3kb_NonPathogenic
 parent res_3kb
@@ -518,6 +551,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_NP-SV1_3kb
 parent res_3kb_NonPathogenic
@@ -532,6 +566,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_3kb_CRISPR
 parent res_3kb
@@ -553,6 +588,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_Unbinned
 superTrack on show
@@ -578,6 +614,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV1_Unbinned
 parent res_Unbinned_Patients
@@ -592,6 +629,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV1_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -606,6 +644,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_UK-SV2_Unbinned
 parent res_Unbinned_Patients
@@ -620,6 +659,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_UK-SV2_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -634,6 +674,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV5_Unbinned
 parent res_Unbinned_Patients
@@ -648,6 +689,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NL-SV5_Unbinned_LongRangeOnly
 parent res_Unbinned_Patients
@@ -662,6 +704,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_Unbinned_Controls
 parent res_Unbinned
@@ -681,6 +724,7 @@ visibility pack
 interactDisplayMode curve
 itemRgb on
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont67_Unbinned
 parent res_Unbinned_Controls
@@ -695,6 +739,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont67_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -709,6 +754,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont74_Unbinned
 parent res_Unbinned_Controls
@@ -723,6 +769,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont74_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -737,6 +784,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont75_Unbinned
 parent res_Unbinned_Controls
@@ -751,6 +799,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_Cont75_Unbinned_LongRangeOnly
 parent res_Unbinned_Controls
@@ -765,6 +814,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_Unbinned_NonPathogenic
 parent res_Unbinned
@@ -786,6 +836,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track PPC_NP-SV1_Unbinned_LongRangeOnly
 parent res_Unbinned_NonPathogenic
@@ -800,6 +851,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track res_Unbinned_CRISPR
 parent res_Unbinned
@@ -821,6 +873,7 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
 track RO_Isocont_Unbinned_LongRangeOnly
 parent res_Unbinned_CRISPR
@@ -835,4 +888,5 @@ useScore 1
 spectrum on
 scoreFilter 250
 maxHeightPixels 100:60:30
+endsVisible two
 
